@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.button{
+  background-color: aqua;
+
+}
+
+.button:hover{
+background-color:#14bef0;
+}
+.abc{
+  position:static;
+}
